@@ -1,5 +1,8 @@
 name: Rainforest API Flow
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 3 * * *"  # roda todo dia às 03:00 UTC
@@ -22,11 +25,17 @@ jobs:
         run: |
           pip install requests
 
-      - name: Executar script Rainforest
+      - name: Executar Search (Notebook)
         env:
           RAINFOREST_API_KEY: ${{ secrets.RAINFOREST_API_KEY }}
         run: |
-          python scripts/fetch_rainforest.py
+          python scripts/fetch_search.py
+
+      - name: Executar Bestsellers
+        env:
+          RAINFOREST_API_KEY: ${{ secrets.RAINFOREST_API_KEY }}
+        run: |
+          python scripts/fetch_bestsellers.py
 
       - name: Commit dos arquivos JSON
         run: |
