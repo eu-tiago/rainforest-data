@@ -1,0 +1,37 @@
+name: Rainforest API Flow
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # roda todo dia às 03:00 UTC
+  workflow_dispatch:     # permite rodar manualmente
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: |
+          pip install requests
+
+      - name: Executar script Rainforest
+        env:
+          RAINFOREST_API_KEY: ${{ secrets.RAINFOREST_API_KEY }}
+        run: |
+          python scripts/fetch_rainforest.py
+
+      - name: Commit dos arquivos JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git commit -m "Atualização automática Rainforest API" || echo "Nada para commitar"
+          git push
