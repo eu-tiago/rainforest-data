@@ -1,0 +1,1724 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 20,
+    "credits_remaining": 80,
+    "credits_used_this_request": 2
+  },
+  "request_parameters": {
+    "type": "bestsellers",
+    "amazon_domain": "amazon.com.br",
+    "category_id": "bestsellers_appliances",
+    "page": "1",
+    "max_page": "5",
+    "output": "json"
+  },
+  "request_metadata": {
+    "created_at": "2025-12-28T04:57:26.634Z",
+    "processed_at": "2025-12-28T04:57:33.825Z",
+    "total_time_taken": 7.19,
+    "pages": [
+      {
+        "created_at": "2025-12-28T04:57:26.634Z",
+        "processed_at": "2025-12-28T04:57:31.210Z",
+        "total_time_taken": 4.58,
+        "page": 1,
+        "amazon_url": "https://www.amazon.com.br/gp/bestsellers/appliances/ref=zg_bs_nav_appliances_0?pg=1"
+      },
+      {
+        "created_at": "2025-12-28T04:57:31.211Z",
+        "processed_at": "2025-12-28T04:57:33.825Z",
+        "total_time_taken": 2.61,
+        "page": 2,
+        "amazon_url": "https://www.amazon.com.br/gp/bestsellers/appliances/ref=zg_bs_nav_appliances_0?pg=2"
+      }
+    ]
+  },
+  "bestsellers": [
+    {
+      "rank": 1,
+      "position": 1,
+      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
+      "asin": "B0DCM31SDG",
+      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCM31SDG/ref=zg_bs_g_appliances_d_sccl_1/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 1347,
+      "price": {
+        "symbol": "R$",
+        "value": 79.99,
+        "currency": "BRL",
+        "raw": "R$79,99"
+      },
+      "page": 1
+    },
+    {
+      "rank": 2,
+      "position": 2,
+      "title": "SUGGAR DEPURADOR DE AR SLIM 60CM 3 VEL. PRETO 110V DPS161PT",
+      "asin": "B0B3SJ345V",
+      "link": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS161PT/dp/B0B3SJ345V/ref=zg_bs_g_appliances_d_sccl_2/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41q3C2LevmL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 7738,
+      "price": {
+        "symbol": "R$",
+        "value": 378.9,
+        "currency": "BRL",
+        "raw": "R$378,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 3,
+      "position": 3,
+      "title": "Frigobar Philco Pfg50b 47 Litros Branco 110v 110v",
+      "asin": "B07R126G4B",
+      "link": "https://www.amazon.com.br/Philco-56451037-Frigobar-Pfg50b-127v/dp/B07R126G4B/ref=zg_bs_g_appliances_d_sccl_3/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31gMXDlm8RL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 373,
+      "price": {
+        "symbol": "R$",
+        "value": 575.29,
+        "currency": "BRL",
+        "raw": "R$575,29"
+      },
+      "page": 1
+    },
+    {
+      "rank": 4,
+      "position": 4,
+      "title": "SUGGAR DEPURADOR DE AR SLIM 80CM 3 VEL. PRETO 220V DPS182PT",
+      "asin": "B0B3SJ8YLP",
+      "link": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRETO-DPS182PT/dp/B0B3SJ8YLP/ref=zg_bs_g_appliances_d_sccl_4/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41reXjYlagL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 3686,
+      "price": {
+        "symbol": "R$",
+        "value": 378,
+        "currency": "BRL",
+        "raw": "R$378,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 5,
+      "position": 5,
+      "title": "Suporte com Rodinhas Movel Ajustável Telescópico para Geladeira Fogão Máquina de Lavar Móveis Pesados até 200kgs Base Antider",
+      "asin": "B0FP1251TD",
+      "link": "https://www.amazon.com.br/Ajust%C3%A1vel-Telesc%C3%B3pico-Antiderrapante-Deslizante-Silencioso/dp/B0FP1251TD/ref=zg_bs_g_appliances_d_sccl_5/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41iY1Zn43VL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 133,
+      "price": {
+        "symbol": "R$",
+        "value": 34.9,
+        "currency": "BRL",
+        "raw": "R$34,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 6,
+      "position": 6,
+      "title": "Máquina de Lavar 15kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED15) 220V",
+      "asin": "B09B8X923D",
+      "link": "https://www.amazon.com.br/Lavadora-Electrolux-LED15-Essential-Filter/dp/B09B8X923D/ref=zg_bs_g_appliances_d_sccl_6/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41pS08Q7EoL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 942,
+      "price": {
+        "symbol": "R$",
+        "value": 1998.94,
+        "currency": "BRL",
+        "raw": "R$1.998,94"
+      },
+      "page": 1
+    },
+    {
+      "rank": 7,
+      "position": 7,
+      "title": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 20KG 220V PRATA LE2002PR",
+      "asin": "B0BSR5R4K6",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2002PR/dp/B0BSR5R4K6/ref=zg_bs_g_appliances_d_sccl_7/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eOKrphNdL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 829,
+      "price": {
+        "symbol": "R$",
+        "value": 579,
+        "currency": "BRL",
+        "raw": "R$579,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 8,
+      "position": 8,
+      "title": "Panasonic Máquina de Lavar 12kg Titânio 127v NA-F120B1T",
+      "asin": "B08MZN6R36",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Panasonic-Tit%C3%A2nio-NA-F120B1TA/dp/B08MZN6R36/ref=zg_bs_g_appliances_d_sccl_8/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41W2bH99S3L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1099,
+      "price": {
+        "symbol": "R$",
+        "value": 1930,
+        "currency": "BRL",
+        "raw": "R$1.930,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 9,
+      "position": 9,
+      "title": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 10KG 110V BRANCA LE1021BR",
+      "asin": "B0D15458G5",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE1021BR/dp/B0D15458G5/ref=zg_bs_g_appliances_d_sccl_9/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Xzw3t1fvL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1089,
+      "price": {
+        "symbol": "R$",
+        "value": 489,
+        "currency": "BRL",
+        "raw": "R$489,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 10,
+      "position": 10,
+      "title": "Kit 10/5 Sacos para Lavar Roupa 30x40cm - Zíper Reforçado | Sacos para Máquina | Saquinho de Roupas Delicadas, Protetor Anti-",
+      "asin": "B0F7W57TWG",
+      "link": "https://www.amazon.com.br/Sacos-para-Lavar-Roupa-30x40cm/dp/B0F7W57TWG/ref=zg_bs_g_appliances_d_sccl_10/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/517ROwpg2lL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 119,
+      "price": {
+        "symbol": "R$",
+        "value": 42.9,
+        "currency": "BRL",
+        "raw": "R$42,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 11,
+      "position": 11,
+      "title": "Protetor Contra Queda de Energia PW Para Freezer Ou Geladeira, Branco",
+      "asin": "B0798XT2VK",
+      "link": "https://www.amazon.com.br/Protetor-Contra-Energia-Freezer-Geladeira/dp/B0798XT2VK/ref=zg_bs_g_appliances_d_sccl_11/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516wjfTaZwL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 4816,
+      "price": {
+        "symbol": "R$",
+        "value": 42.4,
+        "currency": "BRL",
+        "raw": "R$42,40"
+      },
+      "page": 1
+    },
+    {
+      "rank": 12,
+      "position": 12,
+      "title": "\"Capa Para Maquina De Lavar Brastemp Eletrolux Consul 07Kg 08Kg 09Kg 10Kg 11Kg12Kg 13Kg 14Kg 15Kg 16Kg 17Kg Impermeável Forra",
+      "asin": "B0D7NPF9Z2",
+      "link": "https://www.amazon.com.br/Capa-Brastemp-Eletrolux-Imperme%C3%A1vel-Resistente/dp/B0D7NPF9Z2/ref=zg_bs_g_appliances_d_sccl_12/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61e0+ijy0pL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 796,
+      "price": {
+        "symbol": "R$",
+        "value": 37.9,
+        "currency": "BRL",
+        "raw": "R$37,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 13,
+      "position": 13,
+      "title": "Lava Louças 8 Serviços Brastemp Cinza - BLF08BS 110V",
+      "asin": "B0BTFCXSMS",
+      "link": "https://www.amazon.com.br/Lava-Lou-Servi-Brastemp-BLF08BS/dp/B0BTFCXSMS/ref=zg_bs_g_appliances_d_sccl_13/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yb7JiKeVL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 323,
+      "price": {
+        "symbol": "R$",
+        "value": 2161.97,
+        "currency": "BRL",
+        "raw": "R$2.161,97"
+      },
+      "page": 1
+    },
+    {
+      "rank": 14,
+      "position": 14,
+      "title": "Lava Louças 8 Serviços Branco 220V Midea",
+      "asin": "B0937HWJLC",
+      "link": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Servi%C3%A7os-Branco-Midea/dp/B0937HWJLC/ref=zg_bs_g_appliances_d_sccl_14/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41P+aq6WZEL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1235,
+      "price": {
+        "symbol": "R$",
+        "value": 2255.99,
+        "currency": "BRL",
+        "raw": "R$2.255,99"
+      },
+      "page": 1
+    },
+    {
+      "rank": 15,
+      "position": 15,
+      "title": "MONDIAL Cooktop a Gás, 4 Bocas, Preto/Inox, Bivolt - CTG-01",
+      "asin": "B085JFRRSW",
+      "link": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFRRSW/ref=zg_bs_g_appliances_d_sccl_15/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/517E2Ia2cWL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.8,
+      "ratings_total": 5036,
+      "price": {
+        "symbol": "R$",
+        "value": 359,
+        "currency": "BRL",
+        "raw": "R$359,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 16,
+      "position": 16,
+      "title": "Refrigerador Consul Duplex 334 Litros Branco CRD37EBANA – 127 Volts",
+      "asin": "B076B9ZB8C",
+      "link": "https://www.amazon.com.br/Geladeira-Consul-Defrost-Freezer-Supercapacidade/dp/B076B9ZB8C/ref=zg_bs_g_appliances_d_sccl_16/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31di3nR3MhL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 517,
+      "price": {
+        "symbol": "R$",
+        "value": 2039,
+        "currency": "BRL",
+        "raw": "R$2.039,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 17,
+      "position": 17,
+      "title": "Kit com 5 sacos de malha para lavar roupas delicadas. Protege lingerie, sutiã e roupas íntimas na máquina. Tamanhos P, M e G ",
+      "asin": "B0FHG683DB",
+      "link": "https://www.amazon.com.br/delicadas-Protege-lingerie-m%C3%A1quina-Tamanhos/dp/B0FHG683DB/ref=zg_bs_g_appliances_d_sccl_17/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+Yoxs9osL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.8,
+      "ratings_total": 69,
+      "price": {
+        "symbol": "R$",
+        "value": 19.9,
+        "currency": "BRL",
+        "raw": "R$19,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 18,
+      "position": 18,
+      "title": "Máquina de Lavar Electrolux 8,5kg Branca Turbo Economia com Jet&Clean e Filtro Fiapos (LAC09) - 127V",
+      "asin": "B07C885L73",
+      "link": "https://www.amazon.com.br/Lavadora-Electrolux-Turbo-Economia-Capacidade/dp/B07C885L73/ref=zg_bs_g_appliances_d_sccl_18/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cYF-ShO+L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 963,
+      "price": {
+        "symbol": "R$",
+        "value": 1499,
+        "currency": "BRL",
+        "raw": "R$1.499,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 19,
+      "position": 19,
+      "title": "Hisense Lava e Seca, 11kg Lavagem/7kg Secagem, Wi-Fi, Steam, 13 Programas, Motor Inverter, Painel Touch, Titanium WD3S11-127V",
+      "asin": "B08DMTGN38",
+      "link": "https://www.amazon.com.br/Hisense-Programas-Inverter-Titanium-WD3S11-127V/dp/B08DMTGN38/ref=zg_bs_g_appliances_d_sccl_19/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ErCKK3gTL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 38,
+      "price": {
+        "symbol": "R$",
+        "value": 3037.47,
+        "currency": "BRL",
+        "raw": "R$3.037,47"
+      },
+      "page": 1
+    },
+    {
+      "rank": 20,
+      "position": 20,
+      "title": "Refil Filtro Vela Purificador Soft Everest Original",
+      "asin": "B07CZ3R2P8",
+      "link": "https://www.amazon.com.br/Refil-Filtro-Purificador-Everest-Original/dp/B07CZ3R2P8/ref=zg_bs_g_appliances_d_sccl_20/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XhFbEHcKL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.8,
+      "ratings_total": 741,
+      "price": {
+        "symbol": "R$",
+        "value": 103.49,
+        "currency": "BRL",
+        "raw": "R$103,49"
+      },
+      "page": 1
+    },
+    {
+      "rank": 21,
+      "position": 21,
+      "title": "Suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado",
+      "asin": "B0BTZBQDMC",
+      "link": "https://www.amazon.com.br/Rodinhas-Ajust%C3%A1vel-Geladeira-Resistente-Refor%C3%A7ado/dp/B0BTZBQDMC/ref=zg_bs_g_appliances_d_sccl_21/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ARppGGJyL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 2311,
+      "price": {
+        "symbol": "R$",
+        "value": 34.74,
+        "currency": "BRL",
+        "raw": "R$34,74"
+      },
+      "page": 1
+    },
+    {
+      "rank": 22,
+      "position": 22,
+      "title": "Oikos - Conjunto de 3 Sacos para Máquina de Lavar Roupas Delicadas PMG",
+      "asin": "B086WWQX1S",
+      "link": "https://www.amazon.com.br/Oikos-conjunto-m%C3%A1quina-roupas-delicadas/dp/B086WWQX1S/ref=zg_bs_g_appliances_d_sccl_22/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61BJhE0GLIL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 3925,
+      "price": {
+        "symbol": "R$",
+        "value": 25,
+        "currency": "BRL",
+        "raw": "R$25,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 23,
+      "position": 23,
+      "title": "Artist Unknown - Pacote com 4 Cal�os de Borracha Redondos Pretos para Elevar e Estabilizar Lavadora, Secadora, Geladeira ou O",
+      "asin": "B08NWQHGR4",
+      "link": "https://www.amazon.com.br/Artist-Estabilizar-Eletrodom%C3%A9sticos-Antivibra%C3%A7%C3%A3o-Anti-Deslocamento/dp/B08NWQHGR4/ref=zg_bs_g_appliances_d_sccl_23/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61nbiJ9iyTL._AC_UL300_SR300,200_.jpg",
+      "rating": 4,
+      "ratings_total": 2613,
+      "price": {
+        "symbol": "R$",
+        "value": 18.49,
+        "currency": "BRL",
+        "raw": "R$18,49"
+      },
+      "page": 1
+    },
+    {
+      "rank": 24,
+      "position": 24,
+      "title": "Panasonic Máquina de Lavar 18kg Titânio Antibactéria 220v NA-F180P7T",
+      "asin": "B0C29MP9TT",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Panasonic-Antibacteria-Tit%C3%A2nio-NA-F180P7T/dp/B0C29MP9TT/ref=zg_bs_g_appliances_d_sccl_24/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hwWYwgKgL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 567,
+      "price": {
+        "symbol": "R$",
+        "value": 2535.99,
+        "currency": "BRL",
+        "raw": "R$2.535,99"
+      },
+      "page": 1
+    },
+    {
+      "rank": 25,
+      "position": 25,
+      "title": "SUGGAR DEPURADOR COIFA DE AR SLIM 80CM INOX 110V DPS181IX",
+      "asin": "B0B3SHRP7S",
+      "link": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-80CM-DPS181IX/dp/B0B3SHRP7S/ref=zg_bs_g_appliances_d_sccl_25/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41NHJDKA3XL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1667,
+      "price": {
+        "symbol": "R$",
+        "value": 425,
+        "currency": "BRL",
+        "raw": "R$425,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 26,
+      "position": 26,
+      "title": "Frigobar, 45L, Branco, 110V, Midea",
+      "asin": "B0778TZGBJ",
+      "link": "https://www.amazon.com.br/Frigobar-Midea-127V-MRC06B1-Branco/dp/B0778TZGBJ/ref=zg_bs_g_appliances_d_sccl_26/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ZcsTeNcuL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 5901,
+      "price": {
+        "symbol": "R$",
+        "value": 711.61,
+        "currency": "BRL",
+        "raw": "R$711,61"
+      },
+      "page": 1
+    },
+    {
+      "rank": 27,
+      "position": 27,
+      "title": "Lava Louças 14 Serviços Preto 220V Midea",
+      "asin": "B093Y3WMXX",
+      "link": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Midea-Servi%C3%A7os-Preta/dp/B093Y3WMXX/ref=zg_bs_g_appliances_d_sccl_27/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MV8w-DQmS._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 254,
+      "page": 1
+    },
+    {
+      "rank": 28,
+      "position": 28,
+      "title": "Cooktop de Indução 4 Bocas Preto com Trava de Segurança Dako Supreme 220v",
+      "asin": "B0CDQCPBVC",
+      "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Seguran%C3%A7a-Dako-Supreme/dp/B0CDQCPBVC/ref=zg_bs_g_appliances_d_sccl_28/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/310Ih6DZwRL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 157,
+      "price": {
+        "symbol": "R$",
+        "value": 1179.9,
+        "currency": "BRL",
+        "raw": "R$1.179,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 29,
+      "position": 29,
+      "title": "Máquina de Lavar Electrolux 11kg Branca Essential Care com Easy Clean e Filtro Fiapos (LES11) - 127V",
+      "asin": "B084R94R4S",
+      "link": "https://www.amazon.com.br/Lavadora-Roupas-Electrolux-LES11-Essencial/dp/B084R94R4S/ref=zg_bs_g_appliances_d_sccl_29/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+50Z4TgEL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 672,
+      "price": {
+        "symbol": "R$",
+        "value": 1835.9,
+        "currency": "BRL",
+        "raw": "R$1.835,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 30,
+      "position": 30,
+      "title": "Cooktop 4 Bocas Itatiaia Essencial com Mesa de Vidro Temperado e Acendimento Automático Preto Bivolt",
+      "asin": "B0B7C9HXGL",
+      "link": "https://www.amazon.com.br/Itatiaia-Essencial-Temperado-Acendimento-Autom%C3%A1tico/dp/B0B7C9HXGL/ref=zg_bs_g_appliances_d_sccl_30/131-8288110-8628435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71uLqItiKiL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1117,
+      "price": {
+        "symbol": "R$",
+        "value": 338.9,
+        "currency": "BRL",
+        "raw": "R$338,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 31,
+      "position": 31,
+      "title": "Refrigerador/Geladeira 486L Side By Side Philco PRF504ID 127V",
+      "asin": "B0B69PDW97",
+      "link": "https://www.amazon.com.br/Refrigerador-Side-Philco-486L-Inverter/dp/B0B69PDW97/ref=_d_sccl_31/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51mupuzm65L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 138,
+      "price": {
+        "symbol": "R$",
+        "value": 3998.89,
+        "currency": "BRL",
+        "raw": "R$3.998,89"
+      },
+      "page": 1
+    },
+    {
+      "rank": 32,
+      "position": 32,
+      "title": "SUGGAR DEPURADOR DE AR SLIM 60CM 3 VEL. INOX 110V DPS161IX",
+      "asin": "B0B3SJY9QN",
+      "link": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-60CM-DPS161IX/dp/B0B3SJY9QN/ref=_d_sccl_32/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41CJ9AvQjYL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 891,
+      "price": {
+        "symbol": "R$",
+        "value": 376,
+        "currency": "BRL",
+        "raw": "R$376,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 33,
+      "position": 33,
+      "title": "Electrolux Fogão 4 bocas Electrolux Cinza Efficient Mesa Vidro, Tripla Chama e PerfectCook (FE4GG) Bivolt",
+      "asin": "B0FVMGCMFX",
+      "link": "https://www.amazon.com.br/Electrolux-Efficient-Tripla-PerfectCook-FE4GG/dp/B0FVMGCMFX/ref=_d_sccl_33/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Jns69B7dL._AC_UL300_SR300,200_.jpg",
+      "rating": 5,
+      "ratings_total": 5,
+      "price": {
+        "symbol": "R$",
+        "value": 1499,
+        "currency": "BRL",
+        "raw": "R$1.499,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 34,
+      "position": 34,
+      "title": "Philco, PFG50P, Frigobar 6 Níveis de ajustes 45L, 1400W, 220V, preto",
+      "asin": "B0C6NJKMJY",
+      "link": "https://www.amazon.com.br/Frigobar-Philco-PFG50P-N%C3%ADveis-ajustes/dp/B0C6NJKMJY/ref=_d_sccl_34/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/517Rw1FY0KL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 225,
+      "price": {
+        "symbol": "R$",
+        "value": 670.9,
+        "currency": "BRL",
+        "raw": "R$670,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 35,
+      "position": 35,
+      "title": "Adega ACB08 Electrolux 8 garrafas 1 Porta Preta Acabamento em Alumínio - Bivolt",
+      "asin": "B09K3MHLRC",
+      "link": "https://www.amazon.com.br/Adega-Electrolux-garrafas-Acabamento-Alum%C3%ADnio/dp/B09K3MHLRC/ref=_d_sccl_35/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/517Bm4HtizL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 335,
+      "price": {
+        "symbol": "R$",
+        "value": 799,
+        "currency": "BRL",
+        "raw": "R$799,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 36,
+      "position": 36,
+      "title": "Electrolux Fogão 4 bocas Electrolux Preto Efficient Mesa Vidro, Tripla Chama e PerfectCook (FE4GB) Bivolt",
+      "asin": "B0FVPMV5D8",
+      "link": "https://www.amazon.com.br/Electrolux-Efficient-Tripla-PerfectCook-FE4GB/dp/B0FVPMV5D8/ref=_d_sccl_36/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61CZYp8rp8L._AC_UL300_SR300,200_.jpg",
+      "rating": 5,
+      "ratings_total": 4,
+      "price": {
+        "symbol": "R$",
+        "value": 1852.97,
+        "currency": "BRL",
+        "raw": "R$1.852,97"
+      },
+      "page": 1
+    },
+    {
+      "rank": 37,
+      "position": 37,
+      "title": "Máquina de Lavar Electrolux 13kg Branca Essential Care com Cesto Inox e Jet&Clean (LED13) 220v",
+      "asin": "B09B82CY3P",
+      "link": "https://www.amazon.com.br/Lavadora-Electrolux-LED13-Essential-Filter/dp/B09B82CY3P/ref=_d_sccl_37/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41NV3orR5JL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1461,
+      "page": 1
+    },
+    {
+      "rank": 38,
+      "position": 38,
+      "title": "Depurador, Slim Pdr60i, 150w, Cinza, 110v, Philco",
+      "asin": "B076HZ5SX7",
+      "link": "https://www.amazon.com.br/Depurador-Slim-PDR60I-Velocidades-Philco/dp/B076HZ5SX7/ref=_d_sccl_38/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OTSrcA4dL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1130,
+      "price": {
+        "symbol": "R$",
+        "value": 416.11,
+        "currency": "BRL",
+        "raw": "R$416,11"
+      },
+      "page": 1
+    },
+    {
+      "rank": 39,
+      "position": 39,
+      "title": "Kit 5 Saco Protetor de Lavar Roupa com Zíper Máquina de Lavar Saquinhos 30x40 Peças Delicadas Lingerie Roupa Íntima Meias Pro",
+      "asin": "B0F448MK79",
+      "link": "https://www.amazon.com.br/Protetor-Saquinhos-Delicadas-Desgastes-Lavanderia/dp/B0F448MK79/ref=_d_sccl_39/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KdA6RTp+L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 90,
+      "price": {
+        "symbol": "R$",
+        "value": 19.9,
+        "currency": "BRL",
+        "raw": "R$19,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 40,
+      "position": 40,
+      "title": "ADEGA PAD16E BIVOLT PHILCO",
+      "asin": "B0C6FCQ6CP",
+      "link": "https://www.amazon.com.br/PHILCO-054803027-ADEGA-PAD16E-BIVOLT/dp/B0C6FCQ6CP/ref=_d_sccl_40/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51LqJ+1tXOL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.2,
+      "ratings_total": 294,
+      "price": {
+        "symbol": "R$",
+        "value": 819,
+        "currency": "BRL",
+        "raw": "R$819,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 41,
+      "position": 41,
+      "title": "Filtro de Água para Refrigeradores Side by Side, Branco, Electrolux",
+      "asin": "B079439ZPV",
+      "link": "https://www.amazon.com.br/Filtro-Externo-Geladeira-Electrolux-Original/dp/B079439ZPV/ref=_d_sccl_41/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41-ShrD0wiL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 738,
+      "price": {
+        "symbol": "R$",
+        "value": 86.89,
+        "currency": "BRL",
+        "raw": "R$86,89"
+      },
+      "page": 1
+    },
+    {
+      "rank": 42,
+      "position": 42,
+      "title": "\"Capa Para Maquina De Lavar Brastemp Eletrolux Consul 12Kg 13Kg 14Kg 15Kg 16Kg 17Kg Impermeável Flanelada Com Zíper Proteção ",
+      "asin": "B0D279PP52",
+      "link": "https://www.amazon.com.br/Eletrolux-Imperme%C3%A1vel-Flanelada-Resistente-Perolizado/dp/B0D279PP52/ref=_d_sccl_42/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61FHyC1s6HL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 612,
+      "price": {
+        "symbol": "R$",
+        "value": 45.9,
+        "currency": "BRL",
+        "raw": "R$45,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 43,
+      "position": 43,
+      "title": "FISCHER COOKTOP À GÁS 4 BOCAS FIT LINE TREMPE IRON MESA VIDRO PRETO BIVOLT 36310-102671",
+      "asin": "B0DJ3DM5Y2",
+      "link": "https://www.amazon.com.br/FISCHER-COOKTOP-TREMPE-BIVOLT-36310-102671/dp/B0DJ3DM5Y2/ref=_d_sccl_43/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71O3vss0DlL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 121,
+      "price": {
+        "symbol": "R$",
+        "value": 484.11,
+        "currency": "BRL",
+        "raw": "R$484,11"
+      },
+      "page": 1
+    },
+    {
+      "rank": 44,
+      "position": 44,
+      "title": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 20KG 110V BRANCA LE2001BR",
+      "asin": "B0BSR6FFD8",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE2001BR/dp/B0BSR6FFD8/ref=_d_sccl_44/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41rECLQvLwL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1278,
+      "price": {
+        "symbol": "R$",
+        "value": 549,
+        "currency": "BRL",
+        "raw": "R$549,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 45,
+      "position": 45,
+      "title": "Frigobar Philco PFG85P 5 Níveis Temperatura 68L 220V",
+      "asin": "B0BTPZQXCJ",
+      "link": "https://www.amazon.com.br/Frigobar-Philco-PFG85P-N%C3%ADveis-Temperatura/dp/B0BTPZQXCJ/ref=_d_sccl_45/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31TfOR16AjL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 125,
+      "price": {
+        "symbol": "R$",
+        "value": 805,
+        "currency": "BRL",
+        "raw": "R$805,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 46,
+      "position": 46,
+      "title": "SUGGAR COOKTOP A GÁS VIDRO PRETO 2 QUEIMADORES ESMALTADOS DIFERENTES TAMANHOS FG2002AVP",
+      "asin": "B0B3SFNZ7J",
+      "link": "https://www.amazon.com.br/Suggar-FG2002AVP-Cooktop-Vidro-queimadores/dp/B0B3SFNZ7J/ref=_d_sccl_46/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513oGdWH4pL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 745,
+      "price": {
+        "symbol": "R$",
+        "value": 247,
+        "currency": "BRL",
+        "raw": "R$247,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 47,
+      "position": 47,
+      "title": "\"Capa Para Maquina Frontal Lava E Seca LG Samsung Eletrolux Midea 6Kg 7Kg 8Kg 9Kg 10Kg 11Kg Impermeável Flanelada Com Zíper P",
+      "asin": "B0D3M8LHKL",
+      "link": "https://www.amazon.com.br/Capa-Frontal-Eletrolux-Imperme%C3%A1vel-Flanelada/dp/B0D3M8LHKL/ref=_d_sccl_47/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61gt3TCXheL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 184,
+      "price": {
+        "symbol": "R$",
+        "value": 49.9,
+        "currency": "BRL",
+        "raw": "R$49,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 48,
+      "position": 48,
+      "title": "Refrigerador Panasonic Frost Free 460 Litros Aço Escovado NR-BB64PV1XA – 127 Volts",
+      "asin": "B0DGQVTZHC",
+      "link": "https://www.amazon.com.br/Refrigerador-Panasonic-Litros-Escovado-NR-BB64PV1XA/dp/B0DGQVTZHC/ref=_d_sccl_48/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51DU-olPwbL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 24,
+      "price": {
+        "symbol": "R$",
+        "value": 4324.97,
+        "currency": "BRL",
+        "raw": "R$4.324,97"
+      },
+      "page": 1
+    },
+    {
+      "rank": 49,
+      "position": 49,
+      "title": "Adega Brastemp 12 Garrafas com painel touch - BZC12BE 110V",
+      "asin": "B079ZCB7MB",
+      "link": "https://www.amazon.com.br/Adega-Brastemp-Garrafas-painel-touch/dp/B079ZCB7MB/ref=_d_sccl_49/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/412pJB7TeKL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 326,
+      "price": {
+        "symbol": "R$",
+        "value": 929,
+        "currency": "BRL",
+        "raw": "R$929,00"
+      },
+      "page": 1
+    },
+    {
+      "rank": 50,
+      "position": 50,
+      "title": "Panasonic Máquina de Lavar 17kg Branca ‎127v NA-F170B7W",
+      "asin": "B0C34XB115",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Panasonic-Branca-%E2%80%8ENA-F170B7WA/dp/B0C34XB115/ref=_d_sccl_50/143-9868815-4469008?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41YgwqYdBJL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 297,
+      "price": {
+        "symbol": "R$",
+        "value": 1955.9,
+        "currency": "BRL",
+        "raw": "R$1.955,90"
+      },
+      "page": 1
+    },
+    {
+      "rank": 51,
+      "position": 1,
+      "title": "Capa Para Maquina De Lavar Brastemp Eletrolux Consul 12kg 13kg 14kg 15kg 16kg 17kg Impermeável Com Zíper (Preta, G)",
+      "asin": "B0D7DRZ9LQ",
+      "link": "https://www.amazon.com.br/Maquina-Brastemp-Eletrolux-Imperme%C3%A1vel-Flanelada/dp/B0D7DRZ9LQ/ref=zg_bs_g_appliances_d_sccl_1/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615KIm17wNL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 395,
+      "price": {
+        "symbol": "R$",
+        "value": 43.99,
+        "currency": "BRL",
+        "raw": "R$43,99"
+      },
+      "page": 2
+    },
+    {
+      "rank": 52,
+      "position": 2,
+      "title": "Cooktop 5 Bocas Mueller Bivolt G5",
+      "asin": "B081DBCK53",
+      "link": "https://www.amazon.com.br/Cooktop-Bocas-Mueller-Bivolt-G5/dp/B081DBCK53/ref=zg_bs_g_appliances_d_sccl_2/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51nbgwxn+lL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 372,
+      "price": {
+        "symbol": "R$",
+        "value": 519.89,
+        "currency": "BRL",
+        "raw": "R$519,89"
+      },
+      "page": 2
+    },
+    {
+      "rank": 53,
+      "position": 3,
+      "title": "MONDIAL Cooktop a Gás, 5 Bocas, Preto/Inox, Bivolt - CTG-02",
+      "asin": "B085JFZHJ6",
+      "link": "https://www.amazon.com.br/MONDIAL-Cooktop-Bocas-Preto-Bivolt/dp/B085JFZHJ6/ref=zg_bs_g_appliances_d_sccl_3/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/7144mJXoQrL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 2316,
+      "price": {
+        "symbol": "R$",
+        "value": 463,
+        "currency": "BRL",
+        "raw": "R$463,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 54,
+      "position": 4,
+      "title": "Máquina de Lavar Electrolux 8,5kg Branca Turbo Economia com Jet&Clean e Filtro Fiapos (LAC09) - 220V",
+      "asin": "B07CHV8GPJ",
+      "link": "https://www.amazon.com.br/Lavadora-Electrolux-Turbo-Economia-Capacidade/dp/B07CHV8GPJ/ref=zg_bs_g_appliances_d_sccl_4/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cYF-ShO+L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.8,
+      "ratings_total": 481,
+      "price": {
+        "symbol": "R$",
+        "value": 1499,
+        "currency": "BRL",
+        "raw": "R$1.499,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 55,
+      "position": 5,
+      "title": "Fogão 5 bocas Atlas Mônaco Plus Branco com Acendimento Automático e Mesa Inox",
+      "asin": "B091TST6WM",
+      "link": "https://www.amazon.com.br/Atlas-M%C3%B4naco-Plus-Acendimento-Autom%C3%A1tico/dp/B091TST6WM/ref=zg_bs_g_appliances_d_sccl_5/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZClvMrHpL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 848,
+      "price": {
+        "symbol": "R$",
+        "value": 880.64,
+        "currency": "BRL",
+        "raw": "R$880,64"
+      },
+      "page": 2
+    },
+    {
+      "rank": 56,
+      "position": 6,
+      "title": "Geladeira Brastemp Frost Free Duplex 375 Litros com Compartimento Extrafrio - BRM44HK 110v",
+      "asin": "B07GWSXQGL",
+      "link": "https://www.amazon.com.br/Geladeira-Brastemp-Frost-Duplex-litros/dp/B07GWSXQGL/ref=zg_bs_g_appliances_d_sccl_6/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31trUcE3urL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 362,
+      "price": {
+        "symbol": "R$",
+        "value": 2954.44,
+        "currency": "BRL",
+        "raw": "R$2.954,44"
+      },
+      "page": 2
+    },
+    {
+      "rank": 57,
+      "position": 7,
+      "title": "Refrigerador 375L 2 Portas Frost Free 220 Volts, Branco, Brastemp",
+      "asin": "B07FXZ8TR6",
+      "link": "https://www.amazon.com.br/Geladeira-Brastemp-Duplex-litros-Branca/dp/B07FXZ8TR6/ref=zg_bs_g_appliances_d_sccl_7/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31xMzsFPtXL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 555,
+      "price": {
+        "symbol": "R$",
+        "value": 2843.33,
+        "currency": "BRL",
+        "raw": "R$2.843,33"
+      },
+      "page": 2
+    },
+    {
+      "rank": 58,
+      "position": 8,
+      "title": "Depurador de Ar Slim bivolt 80cm branco Suggar",
+      "asin": "B0B3SK48V7",
+      "link": "https://www.amazon.com.br/Depurador-Slim-bivolt-branco-Suggar/dp/B0B3SK48V7/ref=zg_bs_g_appliances_d_sccl_8/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41I7db-oPyL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 314,
+      "price": {
+        "symbol": "R$",
+        "value": 339,
+        "currency": "BRL",
+        "raw": "R$339,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 59,
+      "position": 9,
+      "title": "Suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado Ajustável Para Geladeira Fogão e ",
+      "asin": "B0F2TNVGB9",
+      "link": "https://www.amazon.com.br/Suporte-Rodinhas-Para-Eletrodom%C3%A9sticos-Refor%C3%A7ado/dp/B0F2TNVGB9/ref=zg_bs_g_appliances_d_sccl_9/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51k7NTAQxuL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 60,
+      "price": {
+        "symbol": "R$",
+        "value": 32.9,
+        "currency": "BRL",
+        "raw": "R$32,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 60,
+      "position": 10,
+      "title": "SUGGAR LAVADORA DE ROUPAS NEO TURBILHÃO 8KG 110V BRANCA LE8001BR",
+      "asin": "B0CZ7CPX61",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-TURBILH%C3%83O-LE8001BR/dp/B0CZ7CPX61/ref=zg_bs_g_appliances_d_sccl_10/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41pnOYCkiQL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 338,
+      "price": {
+        "symbol": "R$",
+        "value": 332.22,
+        "currency": "BRL",
+        "raw": "R$332,22"
+      },
+      "page": 2
+    },
+    {
+      "rank": 61,
+      "position": 11,
+      "title": "Coza - Escorredor de Talheres Oval Basic - Preto",
+      "asin": "B076VPW7BW",
+      "link": "https://www.amazon.com.br/Escorredor-talheres-Basic-Preto-Coza/dp/B076VPW7BW/ref=zg_bs_g_appliances_d_sccl_11/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WwtLHylaL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 1221,
+      "price": {
+        "symbol": "R$",
+        "value": 16.14,
+        "currency": "BRL",
+        "raw": "R$16,14"
+      },
+      "page": 2
+    },
+    {
+      "rank": 62,
+      "position": 12,
+      "title": "Suporte Móvel Ajustável p/ Eletrodomésticos Pesados até 200kg c/ 24 Rodinhas e Trava – Fogão, Geladeira, Máquina de Lavar, An",
+      "asin": "B0FCDP7Z3J",
+      "link": "https://www.amazon.com.br/Suporte-Ajust%C3%A1vel-Eletrodom%C3%A9sticos-Pesados-Rodinhas/dp/B0FCDP7Z3J/ref=zg_bs_g_appliances_d_sccl_12/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61EmCVpFQOL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.2,
+      "ratings_total": 55,
+      "price": {
+        "symbol": "R$",
+        "value": 62.91,
+        "currency": "BRL",
+        "raw": "R$62,91"
+      },
+      "page": 2
+    },
+    {
+      "rank": 63,
+      "position": 13,
+      "title": "Brastemp Lava e Seca Brastemp Titanium 11Kg/6Kg - BNO11AS 110V",
+      "asin": "B0FTYX361T",
+      "link": "https://www.amazon.com.br/Brastemp-Lava-Seca-Titanium-11Kg/dp/B0FTYX361T/ref=zg_bs_g_appliances_d_sccl_13/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qpM70RNZL._AC_UL300_SR300,200_.jpg",
+      "rating": 5,
+      "ratings_total": 2,
+      "price": {
+        "symbol": "R$",
+        "value": 3799,
+        "currency": "BRL",
+        "raw": "R$3.799,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 64,
+      "position": 14,
+      "title": "Pés Niveladores Universal Antivibração para Máquina de Lavar, Lava e Seca, Geladeira e Sofá – Suporte Universal Ajustável, An",
+      "asin": "B0FPDP3X6T",
+      "link": "https://www.amazon.com.br/Niveladores-Universal-Antivibra%C3%A7%C3%A3o-M%C3%A1quina-Geladeira/dp/B0FPDP3X6T/ref=zg_bs_g_appliances_d_sccl_14/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Q4NUojpQL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 19,
+      "price": {
+        "symbol": "R$",
+        "value": 29.9,
+        "currency": "BRL",
+        "raw": "R$29,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 65,
+      "position": 15,
+      "title": "SUGGAR DEPURADOR DE AR SLIM 80CM 3 VEL. PRATA 220V DPS182PR",
+      "asin": "B0B3SHM85J",
+      "link": "https://www.amazon.com.br/SUGGAR-DEPURADOR-SLIM-PRATA-DPS182PR/dp/B0B3SHM85J/ref=zg_bs_g_appliances_d_sccl_15/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cyuJ4dDWL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 644,
+      "price": {
+        "symbol": "R$",
+        "value": 387.06,
+        "currency": "BRL",
+        "raw": "R$387,06"
+      },
+      "page": 2
+    },
+    {
+      "rank": 66,
+      "position": 16,
+      "title": "Depurador de ar slim touch 80cm inox 220V",
+      "asin": "B0BSP573FN",
+      "link": "https://www.amazon.com.br/Depurador-slim-touch-80cm-inox/dp/B0BSP573FN/ref=zg_bs_g_appliances_d_sccl_16/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51uMVsAiVeL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 383,
+      "price": {
+        "symbol": "R$",
+        "value": 606.71,
+        "currency": "BRL",
+        "raw": "R$606,71"
+      },
+      "page": 2
+    },
+    {
+      "rank": 67,
+      "position": 17,
+      "title": "Kit Registro Regulador Gás Cozinha Com Mangueira 1 metro Para Botijão 13kg Residencial",
+      "asin": "B083B6T654",
+      "link": "https://www.amazon.com.br/Kit-Registro-Regulador-Mangueira-Residencial/dp/B083B6T654/ref=zg_bs_g_appliances_d_sccl_17/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Mt+xcRyUL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.9,
+      "ratings_total": 22,
+      "price": {
+        "symbol": "R$",
+        "value": 29.9,
+        "currency": "BRL",
+        "raw": "R$29,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 68,
+      "position": 18,
+      "title": "Cervejeira Consul Titanium - CZD12AT 110v",
+      "asin": "B076JFRQ4M",
+      "link": "https://www.amazon.com.br/Consul-Cervejeira-Titanium-110V/dp/B076JFRQ4M/ref=zg_bs_g_appliances_d_sccl_18/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518827duj3L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.9,
+      "ratings_total": 336,
+      "price": {
+        "symbol": "R$",
+        "value": 2079,
+        "currency": "BRL",
+        "raw": "R$2.079,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 69,
+      "position": 19,
+      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 110 V",
+      "asin": "B0BZT1ZY6T",
+      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT1ZY6T/ref=zg_bs_g_appliances_d_sccl_19/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 45,
+      "price": {
+        "symbol": "R$",
+        "value": 3912.97,
+        "currency": "BRL",
+        "raw": "R$3.912,97"
+      },
+      "page": 2
+    },
+    {
+      "rank": 70,
+      "position": 20,
+      "title": "FISCHER COOKTOP À GÁS 4 BOCAS FIT LINE TREMPE ARAMADO MESA VIDRO PRETO BIVOLT 36350-102675",
+      "asin": "B0DJ3CLH7M",
+      "link": "https://www.amazon.com.br/FISCHER-COOKTOP-TREMPE-ARAMADO-36350-102675/dp/B0DJ3CLH7M/ref=zg_bs_g_appliances_d_sccl_20/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714VOiXpB6L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 104,
+      "price": {
+        "symbol": "R$",
+        "value": 399,
+        "currency": "BRL",
+        "raw": "R$399,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 71,
+      "position": 21,
+      "title": "2 Filtro para Geladeira compatível com Electrolux TasteGuard – Modelos DM90X, DM91X, DQ90X, IB45, IB55, IB54, IM8, IQ8, IF43,",
+      "asin": "B0FHG43ZCH",
+      "link": "https://www.amazon.com.br/Filtro-Geladeira-compat%C3%ADvel-Electrolux-TasteGuard/dp/B0FHG43ZCH/ref=zg_bs_g_appliances_d_sccl_21/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61A4-IFCStL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 25,
+      "page": 2
+    },
+    {
+      "rank": 72,
+      "position": 22,
+      "title": "Suporte para Forno de Microondas Multivisão Branco",
+      "asin": "B075THQG8X",
+      "link": "https://www.amazon.com.br/Suporte-Microondas-Multivis%C3%A3o-F200-BR-Branco/dp/B075THQG8X/ref=zg_bs_g_appliances_d_sccl_22/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91TtAoNzB-L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1286,
+      "price": {
+        "symbol": "R$",
+        "value": 54.8,
+        "currency": "BRL",
+        "raw": "R$54,80"
+      },
+      "page": 2
+    },
+    {
+      "rank": 73,
+      "position": 23,
+      "title": "Lava e Seca LG VC4 12kg Com Inteligência Artificial AIDD (110, Volts)",
+      "asin": "B0D2LMLFG5",
+      "link": "https://www.amazon.com.br/LG-VC4-Intelig%C3%AAncia-Artificial-Volts/dp/B0D2LMLFG5/ref=zg_bs_g_appliances_d_sccl_23/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TJS2xjd6L._AC_UL300_SR300,200_.jpg",
+      "rating": 5,
+      "ratings_total": 19,
+      "price": {
+        "symbol": "R$",
+        "value": 4324.97,
+        "currency": "BRL",
+        "raw": "R$4.324,97"
+      },
+      "page": 2
+    },
+    {
+      "rank": 74,
+      "position": 24,
+      "title": "Geladeira Refrigerador HQ Defrost 230 Litros Branco HQ-230RDF (127V)",
+      "asin": "B0DMPSP11W",
+      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Defrost-HQ-230RDF/dp/B0DMPSP11W/ref=zg_bs_g_appliances_d_sccl_24/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31zp-OCfCbL._AC_UL300_SR300,200_.jpg",
+      "rating": 3.7,
+      "ratings_total": 14,
+      "price": {
+        "symbol": "R$",
+        "value": 1598.95,
+        "currency": "BRL",
+        "raw": "R$1.598,95"
+      },
+      "page": 2
+    },
+    {
+      "rank": 75,
+      "position": 25,
+      "title": "Estabilizador SMS Revol. Speedy 500VA Mono115-15971",
+      "asin": "B0755Q3J9N",
+      "link": "https://www.amazon.com.br/Estabilizador-Revolution-Speedy-SMS-15971/dp/B0755Q3J9N/ref=zg_bs_g_appliances_d_sccl_25/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Fgz9XEj-L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.1,
+      "ratings_total": 105,
+      "price": {
+        "symbol": "R$",
+        "value": 167.99,
+        "currency": "BRL",
+        "raw": "R$167,99"
+      },
+      "page": 2
+    },
+    {
+      "rank": 76,
+      "position": 26,
+      "title": "Geladeira Brastemp Frost Free Duplex 400 litros cor Inox com Freeze Control - BRM54JK 220V",
+      "asin": "B0BTTBDRRS",
+      "link": "https://www.amazon.com.br/Geladeira-Brastemp-BRM54JK-Duplex-Frost/dp/B0BTTBDRRS/ref=zg_bs_g_appliances_d_sccl_26/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41GaIManTnL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 27,
+      "page": 2
+    },
+    {
+      "rank": 77,
+      "position": 27,
+      "title": "Kit 6 Sacos Protetores para Máquina de Lavar – 3 Tamanhos (P, M, G), Malha Fina Reforçada com Zíper de Segurança – Protege Ro",
+      "asin": "B0FZCWSM8W",
+      "link": "https://www.amazon.com.br/Sacos-Protetores-para-M%C3%A1quina-Lavar/dp/B0FZCWSM8W/ref=zg_bs_g_appliances_d_sccl_27/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51a8UqePAnL._AC_UL300_SR300,200_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "page": 2
+    },
+    {
+      "rank": 78,
+      "position": 28,
+      "title": "SUGGAR CENTRIFUGA DE ROUPAS GIROMAX 15KG BRANCA 110V CT1501BR",
+      "asin": "B08L9RHPCF",
+      "link": "https://www.amazon.com.br/SUGGAR-CENTRIFUGA-ROUPAS-GIROMAX-CT1501BR/dp/B08L9RHPCF/ref=zg_bs_g_appliances_d_sccl_28/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516NTpw-QqL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.3,
+      "ratings_total": 2062,
+      "price": {
+        "symbol": "R$",
+        "value": 448,
+        "currency": "BRL",
+        "raw": "R$448,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 79,
+      "position": 29,
+      "title": "Máquina de Lavar 13Kg - Ciclo Tira Manchas | Brastemp - 110v",
+      "asin": "B0CKC3YKX6",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Brastemp-Manchas-Advanced-Antibolinha/dp/B0CKC3YKX6/ref=zg_bs_g_appliances_d_sccl_29/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41aVuxflVhL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 642,
+      "price": {
+        "symbol": "R$",
+        "value": 2194.4,
+        "currency": "BRL",
+        "raw": "R$2.194,40"
+      },
+      "page": 2
+    },
+    {
+      "rank": 80,
+      "position": 30,
+      "title": "Cooktop de Indução 4 Bocas Eos com Painel Touch Preto 7200w Eci04ep3 220v",
+      "asin": "B0FBPBS5L3",
+      "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Bocas-Painel-Eci04ep3/dp/B0FBPBS5L3/ref=zg_bs_g_appliances_d_sccl_30/143-0925170-3817929?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41utC0veIdL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 17,
+      "price": {
+        "symbol": "R$",
+        "value": 999,
+        "currency": "BRL",
+        "raw": "R$999,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 81,
+      "position": 31,
+      "title": "FRIGOBAR MIDEA 67L 127V",
+      "asin": "B0BT63ZBT7",
+      "link": "https://www.amazon.com.br/Midea-MDRD108FGA011-FRIGOBAR-MIDEA-127V/dp/B0BT63ZBT7/ref=_d_sccl_81/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Z5EBdLLRL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 515,
+      "price": {
+        "symbol": "R$",
+        "value": 786.42,
+        "currency": "BRL",
+        "raw": "R$786,42"
+      },
+      "page": 2
+    },
+    {
+      "rank": 82,
+      "position": 32,
+      "title": "Geladeira Brastemp Frost Free Duplex 400 litros cor Inox com Freeze Control - BRM54JK 110V",
+      "asin": "B0BTFLSXWS",
+      "link": "https://www.amazon.com.br/Geladeira-Brastemp-Duplex-Litros-Brm54jkana/dp/B0BTFLSXWS/ref=_d_sccl_82/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41GaIManTnL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 59,
+      "price": {
+        "symbol": "R$",
+        "value": 3654.44,
+        "currency": "BRL",
+        "raw": "R$3.654,44"
+      },
+      "page": 2
+    },
+    {
+      "rank": 83,
+      "position": 33,
+      "title": "Protetor Contra Queda de Energia e Picos de Tensão para Freezer, Geladeira e Eletrodomésticos",
+      "asin": "B0F5SKY7NG",
+      "link": "https://www.amazon.com.br/Protetor-Energia-Freezer-Geladeira-Eletrodom%C3%A9sticos/dp/B0F5SKY7NG/ref=_d_sccl_83/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51pItqd6mUL._AC_UL300_SR300,200_.jpg",
+      "rating": 4,
+      "ratings_total": 32,
+      "price": {
+        "symbol": "R$",
+        "value": 52.9,
+        "currency": "BRL",
+        "raw": "R$52,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 84,
+      "position": 34,
+      "title": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 10KG 110V PRETA LE1021PT",
+      "asin": "B0D155SPMW",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE1021PT/dp/B0D155SPMW/ref=_d_sccl_84/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51GjCkcAFTL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 375,
+      "price": {
+        "symbol": "R$",
+        "value": 493.5,
+        "currency": "BRL",
+        "raw": "R$493,50"
+      },
+      "page": 2
+    },
+    {
+      "rank": 85,
+      "position": 35,
+      "title": "Máquina de Lavar 14kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED14)",
+      "asin": "B09B89C9SR",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B89C9SR/ref=_d_sccl_85/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ldEenPU8L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 546,
+      "price": {
+        "symbol": "R$",
+        "value": 1999,
+        "currency": "BRL",
+        "raw": "R$1.999,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 86,
+      "position": 36,
+      "title": "Fogão 4 bocas Atlas Mônaco Plus Preto com Acendimento Automático e Mesa Inox",
+      "asin": "B091RPN1X4",
+      "link": "https://www.amazon.com.br/Atlas-M%C3%B4naco-Plus-Acendimento-Autom%C3%A1tico/dp/B091RPN1X4/ref=_d_sccl_86/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51B0gJxGC9L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1023,
+      "price": {
+        "symbol": "R$",
+        "value": 651.9,
+        "currency": "BRL",
+        "raw": "R$651,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 87,
+      "position": 37,
+      "title": "Fogão Elétrico Portátil, 1 Boca, 1000w, 110v",
+      "asin": "B0DPBFHNQ5",
+      "link": "https://www.amazon.com.br/Fog%C3%A3o-El%C3%A9trico-Port%C3%A1til-Boca-1000w/dp/B0DPBFHNQ5/ref=_d_sccl_87/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51IiPePcaoL._AC_UL300_SR300,200_.jpg",
+      "rating": 3.8,
+      "ratings_total": 12,
+      "price": {
+        "symbol": "R$",
+        "value": 48.87,
+        "currency": "BRL",
+        "raw": "R$48,87"
+      },
+      "page": 2
+    },
+    {
+      "rank": 88,
+      "position": 38,
+      "title": "SUGGAR COOKTOP VIDRO PRETO 4 QUEIMADORES ESMALTADOS DIFERENTES TAMANHOS FG4004AVP",
+      "asin": "B09VLGXSKS",
+      "link": "https://www.amazon.com.br/Suggar-FG4004AVP-Cooktop-Vidro-queimadores/dp/B09VLGXSKS/ref=_d_sccl_88/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516ACwQeKRL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 184,
+      "price": {
+        "symbol": "R$",
+        "value": 370.5,
+        "currency": "BRL",
+        "raw": "R$370,50"
+      },
+      "page": 2
+    },
+    {
+      "rank": 89,
+      "position": 39,
+      "title": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 15KG 110V BRANCA LE1521BR",
+      "asin": "B0D15331MK",
+      "link": "https://www.amazon.com.br/SUGGAR-LAVADORA-ROUPAS-LAVAMAX-LE1521BR/dp/B0D15331MK/ref=_d_sccl_89/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41H-kkhaLTL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 323,
+      "price": {
+        "symbol": "R$",
+        "value": 509,
+        "currency": "BRL",
+        "raw": "R$509,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 90,
+      "position": 40,
+      "title": "Freezer Horizontal Philco 199L PFH205B Dupla Função 220V",
+      "asin": "B071ZKFQ1T",
+      "link": "https://www.amazon.com.br/PHILCO-PFH205B-FREEZER-HORIZONTAL-220V/dp/B071ZKFQ1T/ref=_d_sccl_90/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51LptF3YnuL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 43,
+      "price": {
+        "symbol": "R$",
+        "value": 1683.15,
+        "currency": "BRL",
+        "raw": "R$1.683,15"
+      },
+      "page": 2
+    },
+    {
+      "rank": 91,
+      "position": 41,
+      "title": "Frigobar Midea Branco 124L",
+      "asin": "B0779CB7Y2",
+      "link": "https://www.amazon.com.br/Frigobar-Midea-124L-MRC12B1-Branco/dp/B0779CB7Y2/ref=_d_sccl_91/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31220tNVimL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 1114,
+      "price": {
+        "symbol": "R$",
+        "value": 1009.9,
+        "currency": "BRL",
+        "raw": "R$1.009,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 92,
+      "position": 42,
+      "title": "Cervejeira Consul Titanium - CZD12AT 220v",
+      "asin": "B0778VVLS5",
+      "link": "https://www.amazon.com.br/CONSUL-Cervejeira-Consul-Titanium-220V/dp/B0778VVLS5/ref=_d_sccl_92/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518827duj3L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.9,
+      "ratings_total": 207,
+      "price": {
+        "symbol": "R$",
+        "value": 2079,
+        "currency": "BRL",
+        "raw": "R$2.079,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 93,
+      "position": 43,
+      "title": "\"Capa Para Maquina De Lavar Brastemp Eletrolux Consul 12Kg 13Kg 14Kg 15Kg 16Kg 17Kg Impermeável Flanelada Forrada Com Zíper P",
+      "asin": "B0F9PWCCG7",
+      "link": "https://www.amazon.com.br/Capa-Eletrolux-Imperme%C3%A1vel-All-Resistente/dp/B0F9PWCCG7/ref=_d_sccl_93/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yx+XoXrCL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.2,
+      "ratings_total": 64,
+      "price": {
+        "symbol": "R$",
+        "value": 44.9,
+        "currency": "BRL",
+        "raw": "R$44,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 94,
+      "position": 44,
+      "title": "PW Prote Raio Geladeira e Freezer 220V, branco",
+      "asin": "B0798XX4DG",
+      "link": "https://www.amazon.com.br/Prote-Raio-Geladeira-Freezer-220V/dp/B0798XX4DG/ref=_d_sccl_94/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81U1LXPG+BL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1091,
+      "price": {
+        "symbol": "R$",
+        "value": 39.9,
+        "currency": "BRL",
+        "raw": "R$39,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 95,
+      "position": 45,
+      "title": "Freezer Vertical Consul Slim 142 Litros - CVU20GB 110V",
+      "asin": "B076B98D3W",
+      "link": "https://www.amazon.com.br/Freezer-Vertical-Porta-Consul-CVU20GB/dp/B076B98D3W/ref=_d_sccl_95/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31NXl6NvS8L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.8,
+      "ratings_total": 256,
+      "price": {
+        "symbol": "R$",
+        "value": 2148,
+        "currency": "BRL",
+        "raw": "R$2.148,00"
+      },
+      "page": 2
+    },
+    {
+      "rank": 96,
+      "position": 46,
+      "title": "Fogão Atlas 5 Bocas Mônaco Top Glass Com Acendimento Automático",
+      "asin": "B08DJ85SBV",
+      "link": "https://www.amazon.com.br/Atlas-M%C3%B4naco-Top-Glass-Acendimento/dp/B08DJ85SBV/ref=_d_sccl_96/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51y0F8M9rTL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 592,
+      "price": {
+        "symbol": "R$",
+        "value": 1170.21,
+        "currency": "BRL",
+        "raw": "R$1.170,21"
+      },
+      "page": 2
+    },
+    {
+      "rank": 97,
+      "position": 47,
+      "title": "Suporte Para Micro-Onda Brasforma SBR3.8 Branco Ajustável",
+      "asin": "B075XCPZDS",
+      "link": "https://www.amazon.com.br/Suporte-Micro-Ondas-Brasforma-SBR3-8-Ajust%C3%A1vel/dp/B075XCPZDS/ref=_d_sccl_97/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fzokg836L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.6,
+      "ratings_total": 422,
+      "price": {
+        "symbol": "R$",
+        "value": 39.9,
+        "currency": "BRL",
+        "raw": "R$39,90"
+      },
+      "page": 2
+    },
+    {
+      "rank": 98,
+      "position": 48,
+      "title": "Panasonic Máquina de Lavar 15kg Titânio 127v NA-F150B1T",
+      "asin": "B00DCTI47M",
+      "link": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00DCTI47M/ref=_d_sccl_98/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aihS5uIXL._AC_UL300_SR300,200_.jpg",
+      "rating": 3.5,
+      "ratings_total": 5,
+      "price": {
+        "symbol": "R$",
+        "value": 2293.07,
+        "currency": "BRL",
+        "raw": "R$2.293,07"
+      },
+      "page": 2
+    },
+    {
+      "rank": 99,
+      "position": 49,
+      "title": "SUGGAR FOGÃO NEO MAX PRETO MESA DE VIDRO 4 BOCAS ACENDIMENTO AUTOMÁTICO FGV403PT",
+      "asin": "B0BY2RJ342",
+      "link": "https://www.amazon.com.br/SUGGAR-FOG%C3%83O-ACENDIMENTO-AUTOM%C3%81TICO-FGV403PT/dp/B0BY2RJ342/ref=_d_sccl_99/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IUHMV5ZCL._AC_UL300_SR300,200_.jpg",
+      "rating": 4.4,
+      "ratings_total": 174,
+      "price": {
+        "symbol": "R$",
+        "value": 728.24,
+        "currency": "BRL",
+        "raw": "R$728,24"
+      },
+      "page": 2
+    },
+    {
+      "rank": 100,
+      "position": 50,
+      "title": "Kit 6 Sacos Para Lavar Roupa Máquina De Lavar Saquinho Para Roupas Delicadas Protetor Roupa Íntima Sutiã Bolsa De Malha Taman",
+      "asin": "B0DJFRWRK8",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Saquinho-Delicadas-Protetor-Tamanho/dp/B0DJFRWRK8/ref=_d_sccl_100/135-0036616-1636435?psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/512VFE6tr4L._AC_UL300_SR300,200_.jpg",
+      "rating": 4.7,
+      "ratings_total": 176,
+      "price": {
+        "symbol": "R$",
+        "value": 32.95,
+        "currency": "BRL",
+        "raw": "R$32,95"
+      },
+      "page": 2
+    }
+  ],
+  "pagination": {
+    "pages": [
+      {
+        "current_page": 1,
+        "total_pages": 2
+      },
+      {
+        "current_page": 2,
+        "total_pages": 2
+      }
+    ]
+  },
+  "bestsellers_info": {
+    "title": "Mais vendidosMais Vendidos em Eletrodomésticos"
+  }
+}
