@@ -1,0 +1,6 @@
+{
+  "request_info": {
+    "success": false,
+    "message": "Your account has been temporarily suspended as our systems detected multiple Free Trial accounts being active, or a disposable email address being used during signup. We allow one Free Trial per organisation and to ensure the integrity of Free Trials we do not permit disposable email addresses to be used. We'd love to welcome you as a customer so we'd kindly invite you to consider one of our paid plans or sign up for a Free Trial using a valid email address. This suspension will automatically be removed when you subscribe to a Plan."
+  }
+}
