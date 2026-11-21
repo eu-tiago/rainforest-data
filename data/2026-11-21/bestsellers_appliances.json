@@ -1,0 +1,9 @@
+{
+  "request_info": {
+    "success": false,
+    "credits_used": 96,
+    "credits_remaining": 4,
+    "credits_required": 5,
+    "message": "You have used up your free credits, please consider upgrading to a paid plan."
+  }
+}
